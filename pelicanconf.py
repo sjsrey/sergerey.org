@@ -13,14 +13,14 @@ TIMEZONE = 'America/Phoenix'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
+#FEED_ALL_ATOM = 'feeds/%s.atom.xml'
+#CATEGORY_FEED_ATOM = None
+#TRANSLATION_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
+LINKS = (('PySAL', 'http://pysal.org/'),
+         ('GeoDa Center', 'http://http://geodacenter.asu.edu/'),
+         ('ASU', 'http://www.asu.edu/'),
          )
 
 # Social widget
@@ -31,8 +31,15 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "/Users/serge/pelican-themes/pelican-bootstrap3"
+THEME = "themes/pelican-bootstrap3"
 
 DISPLAY_PAGES_ON_MENU=True
 DISPLAY_CATEGORIES_ON_MENU = False
 
+FAVICON = 'images/favicon.png'
+
+MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
+
+#CATEGORY_FEED = 'feeds/%s.atom.xml'
+#FEED = 'feeds/all.atom.xml'
+#TAG_FEED = 'feeds/%s.atom.xml'

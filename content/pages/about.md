@@ -49,6 +49,11 @@ Trivia
      and was co-founder and host of the [Going Linux
      Podcast](http://goinglinux.com). [^3]
 
+Contact
+-------
+
+Feel free to drop me an email at <sjsrey@gmail.com>.
+
 **Footnotes**
 
 [^1]: Goofey foot.
