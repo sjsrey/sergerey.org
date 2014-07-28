@@ -19,8 +19,7 @@ DEFAULT_LANG = u'en'
 
 # Blogroll
 LINKS = (('PySAL', 'http://pysal.org/'),
-         ('GeoDa Center', 'http://http://geodacenter.asu.edu/'),
-         ('ASU', 'http://www.asu.edu/'),
+         ('GeoDa Center', 'http://geodacenter.asu.edu/'),
          )
 
 # Social widget
