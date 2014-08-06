@@ -18,7 +18,7 @@ DEFAULT_LANG = u'en'
 #TRANSLATION_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # Blogroll
-LINKS = (('PySAL', 'http://pysal.org/'),
+LINKS = (('PySAL', 'http://pysal.readthedocs.org/en/latest/'),
          ('GeoDa Center', 'http://geodacenter.asu.edu/'),
          )
 
