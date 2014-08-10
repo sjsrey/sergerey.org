@@ -13,7 +13,7 @@ I stumbled on this rather striking example of cartography gone wild:
 
 So many things a cartographer could say about this. For starters, heat maps are typically used with raster data and
 the state map depicted here uses a vector representation. Beyond that, the color scheme induces a good bout of cognitive dissonance
-in the reader. I don't know, a *heat* map implies that hotter colors are associated with higher attribute values (see an example [here]). But think of the viewer, what color
+in the reader. A *heat* map implies that hotter colors are associated with higher attribute values (see an example [here]). But think of the viewer, what color
 would be interpreted as hotter, red or green? Yeah, the red states of course. But no, the green states (green as in go fast, I guess?) have higher broadband speeds.
 
 Ouch.
