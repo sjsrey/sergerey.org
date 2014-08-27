@@ -1,8 +1,8 @@
 Title: Publications
-Date: 2014-07-22
-Tags: publications
+Date: 2014-08-28
 
 
+###Publications
 ####Books and Edited Volumes
 1. 2010 Anselin, L. and S.J. Rey (eds.) Perspectives on Spatial Data
   Analysis. Springer Verlag, Berlin. 
@@ -20,6 +20,7 @@ of Geographical Information Science. Accepted 2014-04-16.
 1. 2014 Ertz, O., S.J. Rey and S. Joost. "The open source dynamics in
 geospatial research and education." Journal of Spatial Information
 Science, 8: 67-71. 
+1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. Accepted 2014-08-18.
 1. 2014 Mack, E.A., Y. Zheng, S.J. Rey and R. Maciejewski.
   "Spatio-temporal analysis of industrial composition with IVIID: An
   Interactive Visual Analytics Interface for Industrial Diversity."
