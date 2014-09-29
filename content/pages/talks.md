@@ -1,6 +1,8 @@
 Title: Talks
-Data: 2014-07-26
+Date: 2014-08-28
 
+
+###Presentations
 ####Invited Lectures
 1. 2014 Rey, S.J. "Open regional science." Presidential Address, Western
 Regional Science Association, San Diego. February.
@@ -115,6 +117,15 @@ Regional Science Association, San Diego. February.
 	December 1991.  
 
 ####Conference Participation and Presentations
+1. 2014 Rey, S.J., W. Li, and L. Anselin "SAM: A Provenance
+   Model for Spatial Analytical Methods." GIScience 2014. Vienna. September.
+1. 2014 Li, W., S.J. Rey, L. Anselin and J. Laura. "SAM: A Provenance
+   Model for Spatial Analytical Methods." Second International Conference on
+   CyberGIS and Geodesign. Redlands. August.
+2. 2014 Laura, J.,  R. Pahle, S.J. Rey and L. Anselin. "pPySAL: Autoregression and Complex Systems Framework Integration." Second International Conference on
+   CyberGIS and Geodesign. Redlands. August.
+3. 2014 Rey, S.J. "CyberGIS Beyond Software Integration." Panel, Second International Conference on
+   CyberGIS and Geodesign. Redlands. August.
 1. 2014 Laura, J. and S.J. Rey. "Fast algorithms for binary spatial
 adjacency measures." Scientific Computing with Python. Austin, July.
 1. 2014 Laura, J., S.J. Rey, P. Stephens and R.Pahle. "An evaluation of sampling and full enumeration strategies for Fisher Jenks classification in large n 
