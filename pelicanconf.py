@@ -32,6 +32,8 @@ DEFAULT_PAGINATION = 10
 
 THEME = "themes/pelican-bootstrap3"
 
+PAGE_ORDER_BY = 'sortorder'
+
 DISPLAY_PAGES_ON_MENU=True
 DISPLAY_CATEGORIES_ON_MENU = False
 
