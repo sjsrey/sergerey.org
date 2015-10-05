@@ -44,3 +44,6 @@ MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
 #CATEGORY_FEED = 'feeds/%s.atom.xml'
 #FEED = 'feeds/all.atom.xml'
 #TAG_FEED = 'feeds/%s.atom.xml'
+
+DISPLAY_TAGS_ON_SIDEBAR = False
+
