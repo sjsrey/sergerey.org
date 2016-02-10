@@ -12,6 +12,8 @@ TIMEZONE = 'America/Phoenix'
 
 DEFAULT_LANG = u'en'
 
+STATIC_PATHS = ['images', 'pdfs']
+
 # Feed generation is usually not desired when developing
 #FEED_ALL_ATOM = 'feeds/%s.atom.xml'
 #CATEGORY_FEED_ATOM = None
